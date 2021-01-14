@@ -1,0 +1,17 @@
+.header, .hero, .body, .bar, .footer{
+	margin-bottom: 10px;
+	background-color: aqua;
+	padding: 10px 0;
+
+}
+.box{
+	margin-bottom: 4px;
+	min-height: 70px;
+	background-color: teal;
+	border: 5px solid black;
+	font-size: 50px;
+	color: white;
+}
+.white{
+	background-color: navy;
+}
